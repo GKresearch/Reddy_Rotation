@@ -6,13 +6,10 @@ Image information: All ladders are 1kb
 BioRad 2023-01-25 15h20m12s(SYBR Safe).jpg - 
 
 #
-BioRad 2023-02-02 16h22m21s(SYBR Safe).jpg - 
-
-#
-BioRad 2023-02-03 14h45m05s(SYBR Safe).jpg - 
-
-#
-BioRad 2023-02-03 17h30m45s(SYBR Safe).jpg - 
+BioRad 2023-02-02 16h22m21s(SYBR Safe).jpg
+BioRad 2023-02-03 14h45m05s(SYBR Safe).jpg 
+BioRad 2023-02-03 17h30m45s(SYBR Safe).jpg
+These three gels were run to examine the digest 3, which was made up of PGK1-PGK4 (The first primers I designed) to make the A832 mutation in LB/Hyper LB. All three attempts failed.
 
 #
 BioRad 2023-02-08 17h35m29s(SYBR Safe).jpg - PCR, testing genomic primers, test 1, 293T cells. The wells in order are: 1 kb ladder, genomic primer A1 (R22), genomic primer A2 (R23), genomic primer B1 (R24), and incorrect non-targetting target (fixed to ACTB in test 3 below)
