@@ -2,6 +2,9 @@
 ####
 This repository holds the data produced as well as an explanation of the GK rotation in the Reddy lab (January 9th - March 3rd, 2023)
 
+List of the primary directory:
+
+
 For additional information regarding this repository, please reach out to GK
 ####
 #############
