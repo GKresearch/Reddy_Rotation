@@ -1,14 +1,27 @@
 #############
 Image information: All ladders are 1kb
 
-BioRad 2023-01-25 15h20m12s(SYBR Safe).jpg - 
-BioRad 2023-02-02 16h22m21s(SYBR Safe).jpg - 
-BioRad 2023-02-03 14h45m05s(SYBR Safe).jpg - 
-BioRad 2023-02-03 17h30m45s(SYBR Safe).jpg - 
-BioRad 2023-02-08 17h35m29s(SYBR Safe).jpg - 
-BioRad 2023-02-09 18h47m05s(SYBR Safe).jpg - 
+
 #
-BioRad 2023-02-16 14h15m45s(SYBR Safe).jpg - PCR, testing primary targets
+BioRad 2023-01-25 15h20m12s(SYBR Safe).jpg - 
+
+#
+BioRad 2023-02-02 16h22m21s(SYBR Safe).jpg - 
+
+#
+BioRad 2023-02-03 14h45m05s(SYBR Safe).jpg - 
+
+#
+BioRad 2023-02-03 17h30m45s(SYBR Safe).jpg - 
+
+#
+BioRad 2023-02-08 17h35m29s(SYBR Safe).jpg - 
+
+#
+BioRad 2023-02-09 18h47m05s(SYBR Safe).jpg - 
+
+#
+BioRad 2023-02-16 14h15m45s(SYBR Safe).jpg - PCR, testing primary targets, 293T cells
 Wells:
 1: 1kb ladder
 2: ∆A+ ∆B
