@@ -15,10 +15,10 @@ BioRad 2023-02-03 14h45m05s(SYBR Safe).jpg -
 BioRad 2023-02-03 17h30m45s(SYBR Safe).jpg - 
 
 #
-BioRad 2023-02-08 17h35m29s(SYBR Safe).jpg - 
+BioRad 2023-02-08 17h35m29s(SYBR Safe).jpg - PCR, testing genomic primers, test 1, 293T cells. The wells in order are: 1 kb ladder, genomic primer A1 (R22), genomic primer A2 (R23), genomic primer B1 (R24), and incorrect non-targetting target (fixed to ACTB in test 3 below)
 
 #
-BioRad 2023-02-09 18h47m05s(SYBR Safe).jpg - 
+BioRad 2023-02-09 18h47m05s(SYBR Safe).jpg - PCR, testing genomic primers, test 2, 293T cells. The wells in order are: 1 kb ladder, genomic primer A1 (R22), genomic primer A2 (R23), genomic primer B1 (R24), and incorrect non-targetting target (fixed to ACTB in test 3 below)
 
 #
 BioRad 2023-02-16 14h15m45s(SYBR Safe).jpg - PCR, testing primary targets, 293T cells
